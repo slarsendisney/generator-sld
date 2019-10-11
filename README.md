@@ -25,4 +25,14 @@ Get it now:
 npx -p yo -p generator-sld -- yo sld:melon
 ```
 
+### 🍐 Gatsby Pear Boilerplate
+
+A **GatsbyJS** boilerplate with **Express**.
+
+Get it now:
+
+```
+npx -p yo -p generator-sld -- yo sld:pear
+```
+
 This generator was built with ❤️ by SLD. I try my best to maintain the project but if you notice any issues, or if you need any help - [hit me up!](https://sld.codes)
