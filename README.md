@@ -12,7 +12,7 @@ A **GatsbyJS** boilerplate with **Redux** and **socket.io** all wrapped up nicel
 Get it now:
 
 ```
-npx yo sld:watermelon
+npx -p yo -p generator-sld -- yo sld:watermelon
 ```
 
 ### 🍈 Gatsby Melon Boilerplate
@@ -22,7 +22,7 @@ A **GatsbyJS** boilerplate with **Redux**.
 Get it now:
 
 ```
-npx yo sld:melon
+npx -p yo -p generator-sld -- yo sld:melon
 ```
 
 This generator was built with ❤️ by SLD. I try my best to maintain the project but if you notice any issues, or if you need any help - [hit me up!](sld.codes)
