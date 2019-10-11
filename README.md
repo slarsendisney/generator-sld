@@ -25,4 +25,4 @@ Get it now:
 npx -p yo -p generator-sld -- yo sld:melon
 ```
 
-This generator was built with ❤️ by SLD. I try my best to maintain the project but if you notice any issues, or if you need any help - [hit me up!](sld.codes)
+This generator was built with ❤️ by SLD. I try my best to maintain the project but if you notice any issues, or if you need any help - [hit me up!](https://sld.codes)
