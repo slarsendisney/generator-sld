@@ -2,10 +2,7 @@
 
 A yo generator that clones, installs and starts my boilerplates.
 
-
-## Available Boilerplates
-
-### 🍉 Gatsby Watermelon Boilerplate
+## 🍉 Gatsby Watermelon Boilerplate
 
 A **GatsbyJS** boilerplate with **Redux** and **socket.io** all wrapped up nicely in an **Express** server. This project is meant to help people 
 
@@ -15,7 +12,7 @@ Get it now:
 npx -p yo -p generator-sld -- yo sld:watermelon
 ```
 
-### 🍈 Gatsby Melon Boilerplate
+## 🍈 Gatsby Melon Boilerplate
 
 A **GatsbyJS** boilerplate with **Redux**.
 
@@ -25,7 +22,7 @@ Get it now:
 npx -p yo -p generator-sld -- yo sld:melon
 ```
 
-### 🍐 Gatsby Pear Boilerplate
+## 🍐 Gatsby Pear Boilerplate
 
 A **GatsbyJS** boilerplate with **Express**.
 
