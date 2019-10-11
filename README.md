@@ -32,4 +32,14 @@ Get it now:
 npx -p yo -p generator-sld -- yo sld:pear
 ```
 
+## 🥭 Gatsby Mango Boilerplate
+
+A **GatsbyJS** boilerplate with dynamic page generation sourced from **MarkDown** files.
+
+Get it now:
+
+```
+npx -p yo -p generator-sld -- yo sld:mango
+```
+
 This generator was built with ❤️ by SLD. I try my best to maintain the project but if you notice any issues, or if you need any help - [hit me up!](https://sld.codes)
