@@ -4,7 +4,6 @@ module.exports = class extends Generator {
   initializing() {
     this.spawnCommandSync("git", ["init", "."]);
   }
-
   writing() {
     this.spawnCommandSync("git", ["pull", "origin", "master"]);
     this.spawnCommandSync("rm", ["-rf", ".git"]);
@@ -12,7 +11,6 @@ module.exports = class extends Generator {
   install() {
     this.npmInstall();
   }
-
   end() {
     this.spawnCommandSync("npm", ["start"]);
   }
