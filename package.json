@@ -1,6 +1,6 @@
 {
   "name": "generator-sld",
-  "version": "1.0.6",
+  "version": "2.0.0",
   "description": "Need a GatsbyJS boilerplate? Look no further.",
   "author": "Sam Larsen-Disney <s.larsendisney@gmail.com>",
   "files": [
@@ -9,6 +9,9 @@
   "keywords": [
     "yeoman-generator",
     "gatsby",
+    "express",
+    "redux",
+    "socket.io",
     "boilerplate",
     "starter",
     "react",

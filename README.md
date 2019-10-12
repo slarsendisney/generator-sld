@@ -1,6 +1,18 @@
 # SLD's Gatsby Boilerplate Generator
 
-A yo generator that clones, installs and starts my boilerplates.
+A generator that clones, installs and starts one of a collection of GatsbyJS boilerplates for various project types. Happy Hacking.
+
+## 👋 Prerequisites
+
+This generator requires that you have git, you’ll also need to have Node 8.16.0 or Node 10.16.0 or later version on your local development machine.
+
+## ⚡️ Run the generator
+
+Running the generator without a fruit will give you the choice between all of them.
+
+```
+npx -p yo -p generator-sld -- yo sld
+```
 
 ## 🍉 Gatsby Watermelon Boilerplate
 
