@@ -4,7 +4,7 @@ A yo generator that clones, installs and starts my boilerplates.
 
 ## 🍉 Gatsby Watermelon Boilerplate
 
-A **GatsbyJS** boilerplate with **Redux** and **socket.io** all wrapped up nicely in an **Express** server. This project is meant to help people 
+A **GatsbyJS** boilerplate with **Redux** and **socket.io** all wrapped up nicely in an **Express** server.  
 
 Get it now:
 
