@@ -20,6 +20,7 @@ npx -p yo -p generator-sld -- yo sld:watermelon
 A **GatsbyJS** boilerplate with **Redux**.
 
 [See the demo.](https://melon.sld.codes/)
+
 [See the repo.](https://github.com/slarsendisney/gatsby-melon)
 
 Get it now:
@@ -45,6 +46,7 @@ npx -p yo -p generator-sld -- yo sld:pear
 A **GatsbyJS** boilerplate with dynamic page generation sourced from **MarkDown** files.
 
 [See the demo.](https://mango.sld.codes/)
+
 [See the repo.](https://github.com/slarsendisney/gatsby-mango)
 
 Get it now:

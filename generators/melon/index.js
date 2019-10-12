@@ -3,7 +3,7 @@ var repo = "https://github.com/slarsendisney/gatsby-melon.git";
 
 module.exports = class extends Generator {
   initializing() {
-    this.composeWith(require.resolve("../common"));
+    this.composeWith(require.resolve("../../common"));
   }
   gitInit() {
     this.log("🍈 Cloning the repository...");
